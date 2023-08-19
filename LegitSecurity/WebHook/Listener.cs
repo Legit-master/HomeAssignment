@@ -11,11 +11,10 @@ namespace LegitSecurity.WebHook
     /// </summary>
     public class Listener
     {
-        public static string Start()
+        public static string Start(int port,string prefix)
         {
-            int port = 3050;
             var listener = new HttpListener();
-            listener.Prefixes.Add($"http://127.0.0.1/:{port}/");
+            listener.Prefixes.Add($"{prefix}:{port}/");
 
             listener.Start();
             Console.WriteLine($"Listening for incoming webhook events on port {port}...");

@@ -17,6 +17,8 @@ namespace LegitSecurity
     {
         public static async Task Main(string[] args) 
         {
+            int port = 3050;
+            string prefix = "http://127.0.0.1";
             //init 
             Listener listener = new();
             EventFactory eventFactory = new();
@@ -30,7 +32,7 @@ namespace LegitSecurity
             //run forever to capture all events.
             while (true) 
             {
-                var newEvent = Listener.Start();
+                var newEvent = Listener.Start(port ,prefix);
                 try
                 {
                     //when an event comes in, create an object out of it using event factory
