@@ -1,0 +1,17 @@
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\bin\Debug\net6.0\LegitSecurity.exe
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\bin\Debug\net6.0\LegitSecurity.deps.json
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\bin\Debug\net6.0\LegitSecurity.runtimeconfig.json
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\bin\Debug\net6.0\LegitSecurity.dll
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\bin\Debug\net6.0\LegitSecurity.pdb
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\obj\Debug\net6.0\LegitSecurity.csproj.AssemblyReference.cache
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\obj\Debug\net6.0\LegitSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\obj\Debug\net6.0\LegitSecurity.AssemblyInfoInputs.cache
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\obj\Debug\net6.0\LegitSecurity.AssemblyInfo.cs
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\obj\Debug\net6.0\LegitSecurity.csproj.CoreCompileInputs.cache
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\obj\Debug\net6.0\LegitSecurity.csproj.CopyComplete
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\obj\Debug\net6.0\LegitSecurity.dll
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\obj\Debug\net6.0\refint\LegitSecurity.dll
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\obj\Debug\net6.0\LegitSecurity.pdb
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\obj\Debug\net6.0\LegitSecurity.genruntimeconfig.cache
+C:\Users\yotamc\source\repos\LegitSecurity\LegitSecurity\obj\Debug\net6.0\ref\LegitSecurity.dll

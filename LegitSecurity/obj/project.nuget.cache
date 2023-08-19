@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mXwjjSvMg/9cu4GBtWrWwVtonwt2fiFbwcC/rkeeXnoKmcUU4EzIuyRoEyV60Xc5vvs9YGlspIYqYub0G1PdVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yotamc\\source\\repos\\LegitSecurity\\LegitSecurity\\LegitSecurity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yotamc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
